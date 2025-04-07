@@ -8,8 +8,10 @@ Repositório para armazenar os resumos de Git e GitHub do curso da DIO de Versio
 
 📓 Resumo das aulas
 
-| Aulas | Resumo |
+| Aulas    |    Resumo |
 |-------|---------|
+| Aula 01 | [resumo]()
+  Aula 02 | [resumo]()
 
 🔎 Refêrencia
 
